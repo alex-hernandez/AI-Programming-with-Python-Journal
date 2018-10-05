@@ -9,3 +9,7 @@ Lesson 2: Data Types and Operations 8:00pm (1.5 hour)
 <ul>Arithemtic Operators were covered.<ul>
 <ul>Variables and assignment operators.</ul>
 <ul>Integers and Floats.</ul>
+<h3> October 4, 2018 (Day 2) </h3> 
+Lesson 2 - Data Types and Operations (1 hr)
+<ul>Booleans and Strings.</ul>
+<ul>Type and Type Conversions.</ul>
