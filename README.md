@@ -5,6 +5,7 @@ Lesson 1 - Introduction (30 minutes)
 <br>
 It introduced the staff and the content that will be covered.
 <br>
+<br>
 Lesson 2: Data Types and Operations 8:00pm (1.5 hour)
 <br>
 Arithemtic Operators were covered.
