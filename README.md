@@ -7,9 +7,8 @@ It introduced the staff and the content that will be covered.
 <br>
 <br>
 Section 2 Lesson 1: Why Python Programming?
-<br>
-<br>
 An introduction to this course.
+<br>
 <br>
 Section 2 Lesson 2: Data Types and Operations
 <br>
