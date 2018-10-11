@@ -35,3 +35,9 @@ Lists methods.
 Tuples.
 <br>
 Sets.
+<h3> October 10, 2018 (Day 4 - 1 hr 15 minutes) </h3>
+Section 2 Lesson 2 continued - Data Types and Operations
+<br>
+Disctionaires and Identity Operators.
+<br>
+Compound Data Structures.
