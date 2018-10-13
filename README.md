@@ -41,3 +41,7 @@ Section 2 Lesson 2 continued - Data Types and Operations
 Disctionaires and Identity Operators.
 <br>
 Compound Data Structures.
+<h3> October 11, 2018 (Day 5 - 30 minutes) </h3>
+Section 2 Lesson 3 - Control Flow
+<br>
+Conditional Statements.
