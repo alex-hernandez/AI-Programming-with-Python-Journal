@@ -45,3 +45,14 @@ Compound Data Structures.
 Section 2 Lesson 3 - Control Flow
 <br>
 Conditional Statements.
+<br>
+<h3> October 13, 2018 (Day 6 - 30 minutes) </h3>
+Section 2 Lesson 3 - Control Flow
+<br>
+Conditional Statements.
+<br>
+<h3> October 14, 2018 (Day 7 - 2 hrs) </h3>
+Section 2 Lesson 3 - Control Flow
+<br>
+Booelan Expressions for Conditions.
+<br>
