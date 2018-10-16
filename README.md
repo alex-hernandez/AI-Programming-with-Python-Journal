@@ -58,7 +58,7 @@ Booelan Expressions for Conditions.
 <br>
 For Loops.
 <br>
-<h3> October 15, 2018 (Day 8 - 1 hrs) </h3>
+<h3> October 15, 2018 (Day 8 - 1 hr 30 minutes) </h3>
 Section 2 Lesson 3 - Control Flow
 <br>
 For Loops.
