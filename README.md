@@ -58,3 +58,12 @@ Booelan Expressions for Conditions.
 <br>
 For Loops.
 <br>
+<h3> October 15, 2018 (Day 8 - 1 hrs) </h3>
+Section 2 Lesson 3 - Control Flow
+<br>
+For Loops.
+<br>
+For Loop quizes.
+<br>
+Iterating through dictionaries.
+<br>
