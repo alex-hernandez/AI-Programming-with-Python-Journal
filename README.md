@@ -67,3 +67,8 @@ For Loop quizes.
 <br>
 Iterating through dictionaries.
 <br>
+<h3> October 16, 2018 (Day 9 - 30 min) </h3>
+Section 2 Lesson 3 - Control Flow
+<br>
+While Loops
+<br>
