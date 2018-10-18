@@ -72,3 +72,8 @@ Section 2 Lesson 3 - Control Flow
 <br>
 While Loops
 <br>
+<h3> October 17, 2018 (Day 10 - 30 min) </h3>
+Section 2 Lesson 3 - Control Flow
+<br>
+While Loops
+<br>
